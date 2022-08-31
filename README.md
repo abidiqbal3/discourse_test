@@ -1,2 +1,2 @@
 # discourse_test
-Test file
+Updated readme file for the project
